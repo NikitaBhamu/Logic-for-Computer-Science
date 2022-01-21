@@ -5,3 +5,4 @@ This directory contains all the assignments of the course COL703 : "Logic for Co
 Designed a parser for Formal Language for Arguments in Sentential Logic (FLASL) in sml.
 
 ## flasl-tableau
+This is the implementation of a Tableau-based natural language argument checker for FLASL arguments in sml.
